@@ -1,2 +1,0 @@
-print("Name")
-print("Surname")
